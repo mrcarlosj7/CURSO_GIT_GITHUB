@@ -5,7 +5,11 @@
 }
 
 body {
+<<<<<<< HEAD
     background-color:red;
+=======
+    background-color: blue;
+>>>>>>> modificaciones-diseño
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
